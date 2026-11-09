@@ -1,6 +1,6 @@
 # 🎵 Sistema Musical em HTML
 
-Um player/sistema de áudio web interativo e responsivo desenvolvido com tecnologias front-end fundamentais (**HTML5**, **CSS3** e **JavaScript**).
+Um player/sistema de áudio web interativo e responsivo desenvolvido com tecnologias front-end fundamentais (**HTML5**  e **CSS3**).
 
 ---
 
