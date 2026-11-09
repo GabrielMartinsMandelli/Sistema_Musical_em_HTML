@@ -16,7 +16,6 @@ Projetado por **Gabriel Martins Mandelli** no âmbito dos estudos no **SENAI Jac
 
 * **HTML5:** Estruturação semântica e tags nativas de mídia (`<audio>`).
 * **CSS3:** Estilização visual, layout responsivo e efeitos visuais.
-* **JavaScript (ES6+):** Lógica do player (play/pause, progresso, volume, troca de faixas) e manipulação dinâmica da interface.
 
 ---
 
